@@ -14,4 +14,4 @@ npm start
 ```
 Enter the address on the terminal whose current weather location needs to be fetched.
 
-The current weather conditions will be displayed on the terminal.
+The terminal will displaye the current wheather conditions!
